@@ -1,2 +1,5 @@
 # git_test
-Odin Git thing
+
+ A GitHub repo for the Odin Git thing
+
+
